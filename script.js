@@ -16,8 +16,16 @@ function getData() {
       console.log(TitrePhraseAccroche);
       let texteAppelAction = data.journal.texteAppelAction
       console.log(texteAppelAction);
-      let articlePrincipal = data.journal.articlePrincipal
-      console.log(articlePrincipal);
+      let articlePrincipalTitre = data.journal.articlePrincipal.titre
+      console.log(articlePrincipalTitre);
+      let articlePrincipaldate= data.journal.articlePrincipal.date
+      console.log(articlePrincipaldate);
+      let articlePrincipaldescription = data.journal.articlePrincipal.description
+      console.log(articlePrincipaldescription);
+      let articlePrincipaltheme = data.journal.articlePrincipal.theme
+      console.log(articlePrincipaltheme);
+      let articlePrincipalimage= data.journal.articlePrincipal.image
+      console.log(articlePrincipalimage);
 
        /// FIN DU CODE
      })
