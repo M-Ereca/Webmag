@@ -41,18 +41,14 @@ function getData() {
  
  getData();
 
- ///ON écrit les fonctions ici
-
- let affichelejournal(){
+ function affichelejournal() {
   let title = data.journal.nomJournal;
   console.log(title);
   let titleID = document.getElementById("title");
   console.log(titleID);
-  titleID.insertAdjacentHTML("beforeend",title);
- }
- affichelejournal()
-
- let afficheimage (){
+  titleID.insertAdjacentHTML("beforeend", title);
+}
+function afficheimage() {
   let image = data.journal.articlePrincipalimage;
   console.log(image);
   let imageID = document.getElementById("image")
