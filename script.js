@@ -42,3 +42,20 @@ function getData() {
  getData();
 
  ///ON écrit les fonctions ici
+
+ let affichelejournal(){
+  let title = data.journal.nomJournal;
+  console.log(title);
+  let titleID = document.getElementById("title");
+  console.log(titleID);
+  titleID.insertAdjacentHTML("beforeend",title);
+ }
+ affichelejournal()
+
+ let afficheimage (){
+  let image = data.journal.articlePrincipalimage;
+  console.log(image);
+  let imageID = document.getElementById("image")
+  console.log(imageID);
+  imageID.insertAdjacentHTML("beforeend", image)
+ }
