@@ -124,7 +124,7 @@ let themes = data.journal.themes;
  themes.forEach(element => {
    let themeTitre = element.nom
    console.log(themeTitre);
-   let liste = ` <div class= "themesfin">
+   let liste = ` <div class= "themesfin" data-aos="fade-down">
    <h2>${themeTitre}</h2>
    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum animi, quos architecto id asperiores nulla ab est a! Ullam voluptate obcaecati ea ipsum?</p>
       </div>`
@@ -146,4 +146,4 @@ let themes = data.journal.themes;
 }
 getData();
 ///ON écrit les fonctions ici
-
+AOS.init();
