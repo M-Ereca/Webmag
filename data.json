@@ -1,86 +1,88 @@
 {
-    "journal": {
-      "nomJournal": "Versus Fighting Weekly",
-      "phraseAccroche": "Votre source d'actualités et d'analyses sur le monde du versus fighting",
-      "texteAppelAction": "Inscrivez-vous pour recevoir notre newsletter et rester au top des combats !",
-      "articlePrincipal": {
-        "titre": "Les tournois majeurs de versus fighting en 2024 : un aperçu complet",
-        "description": "Découvrez les tournois à venir, les favoris et les enjeux dans le monde compétitif du versus fighting en 2024.",
-        "date": "25 Avril 2024",
-        "theme": "Versus Fighting",
-        "image":""
+  "journal": {
+    "nomJournal": "Versus Fighting Weekly",
+    "phraseAccroche": "Votre source d'actualités et d'analyses sur le monde du versus fighting",
+    "texteAppelAction": "Inscrivez-vous pour recevoir notre newsletter et rester au top des combats !",
+    "articlePrincipal": {
+      "titre": "Les tournois majeurs de versus fighting en 2024 : un aperçu complet",
+      "description": "Découvrez les tournois à venir, les favoris et les enjeux dans le monde compétitif du versus fighting en 2024.",
+      "date": "25 Avril 2024",
+      "theme": "Versus Fighting",
+      "image":"fgt.png"
+    },
+    "articles": [
+      {
+        "titre": "Guide du débutant : comment démarrer dans le versus fighting",
+        "date": "20 Avril 2024",
+        "theme": "Débutant",
+        "image":"guide fg.png"
       },
-      "articles": [
-        {
-          "titre": "Guide du débutant : comment démarrer dans le versus fighting",
-          "date": "20 Avril 2024",
-          "theme": "Débutant",
-          "image":""
-        },
-        {
-          "titre": "Entretien avec un champion : conseils et stratégies pour progresser",
-          "date": "15 Avril 2024",
-          "theme": "Interview",
-          "image":""
-        },
-        {
-          "titre": "Top 10 des moments les plus mémorables de l'histoire du versus fighting",
-          "date": "5 Avril 2024",
-          "theme": "Moments",
-          "image":""
-        },
-        {
-          "titre": "Analyse : l'évolution des personnages et des méta dans les jeux de combat",
-          "date": "28 Mars 2024",
-          "theme": "Méta",
-          "image":""
-        },
-        {
-          "titre": "Les dernières annonces et rumeurs sur les prochains jeux de combat",
-          "date": "20 Mars 2024",
-          "theme": "Jeux de combat",
-          "image":""
-        }
-      ],
-      "themes": [
-        {
-          "nom": "Débutant",
-          "description": "Conseils et guides pour les débutants souhaitant se lancer dans le versus fighting."
-        },
-        {
-          "nom": "Interview",
-          "description": "Entretiens avec des champions et des experts du versus fighting pour des conseils et des perspectives uniques."
-        },
-        {
-          "nom": "Moments",
-          "description": "Sélection des moments les plus mémorables et des combats épiques de l'histoire du versus fighting."
-        },
-        {
-          "nom": "Méta",
-          "description": "Analyses approfondies sur les évolutions du méta, des personnages et des stratégies dans les jeux de combat."
-        },
-        {
-          "nom": "Jeux de combat",
-          "description": "Actualités, annonces et rumeurs sur les prochains jeux de combat et leurs développements."
-        }
-      ],
-      "auteurs": [
-        {
-          "prenom": "Maxime",
-          "typeExperience": "Joueur compétitif",
-          "presentation": "En tant que joueur compétitif passionné, je partage mes connaissances et mes observations sur le versus fighting pour aider les autres joueurs à progresser."
-        },
-        {
-          "prenom": "Sarah",
-          "typeExperience": "Championne de versus fighting",
-          "presentation": "Avec mon expérience en tant que championne de versus fighting, je partage mes conseils et mes stratégies pour aider les joueurs à atteindre leur plein potentiel."
-        },
-        {
-          "prenom": "yamamoto genryusai",
-          "typeExperience": "Journaliste spécialisé en versus fighting",
-          "presentation": "En tant que journaliste spécialisé, je suis passionné par le versus fighting et je vous offre des analyses approfondies, des interviews exclusives et les dernières nouvelles sur ce passionnant domaine."
-        }
-      ]
-    }
+      {
+        "titre": "Entretien avec un champion : conseils et stratégies",
+        "date": "15 Avril 2024",
+        "theme": "Interview",
+        "image":"Punk.png"
+      },
+      {
+        "titre": "Top 10 des moments les plus mémorables",
+        "date": "5 Avril 2024",
+        "theme": "Moments",
+        "image":"bestofevo.png"
+      },
+      {
+        "titre": "Analyse : l'évolution des personnages",
+        "date": "28 Mars 2024",
+        "theme": "Méta",
+        "image":"evolution.png"
+      },
+      {
+        "titre": "Les dernières annonces et rumeurs sur les prochains jeux de combat",
+        "date": "20 Mars 2024",
+        "theme": "Jeux de combat",
+        "image":"next fg.png"
+      }
+    ],
+    "themes": [
+      {
+        "nom": "Débutant",
+        "description": "Conseils et guides pour les débutants souhaitant se lancer dans le versus fighting."
+      },
+      {
+        "nom": "Interview",
+        "description": "Entretiens avec des champions et des experts du versus fighting pour des conseils et des perspectives uniques."
+      },
+      {
+        "nom": "Moments",
+        "description": "Sélection des moments les plus mémorables et des combats épiques de l'histoire du versus fighting."
+      },
+      {
+        "nom": "Méta",
+        "description": "Analyses approfondies sur les évolutions du méta, des personnages et des stratégies dans les jeux de combat."
+      },
+      {
+        "nom": "Jeux de combat",
+        "description": "Actualités, annonces et rumeurs sur les prochains jeux de combat et leurs développements."
+      }
+    ],
+    "auteurs": [
+      {
+        "prenom": "Maxime",
+        "typeExperience": "Joueur compétitif",
+        "presentation": "En tant que joueur compétitif passionné, je partage mes connaissances et mes observations sur le versus fighting pour aider les autres joueurs à progresser.",
+        "image":"maxime.png"
+      },
+      {
+        "prenom": "Sarah",
+        "typeExperience": "Championne de versus fighting",
+        "presentation": "Avec mon expérience en tant que championne de versus fighting, je partage mes conseils et mes stratégies pour aider les joueurs à atteindre leur plein potentiel.",
+        "image":"sara.png"
+      },
+      {
+        "prenom": "yamamoto genryusai",
+        "typeExperience": "Journaliste spécialisé en versus fighting",
+        "presentation": "En tant que journaliste spécialisé, je suis passionné par le versus fighting et je vous offre des analyses approfondies, des interviews exclusives et les dernières nouvelles sur ce passionnant domaine.",
+        "image":"yamamoto.png"
+      }
+    ]
   }
- 
+}
